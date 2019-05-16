@@ -52,6 +52,12 @@ Install the template locally with:
 template install okular-d/template-new-project create-project
 ```
 
+Setup a new project with:
+
+```shell
+template create new-project $MY-PROJECT
+```
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
