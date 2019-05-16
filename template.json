@@ -1,0 +1,11 @@
+{
+  "variablesOrder": ["name", "owner", "description", "version"],
+  "variables": {
+    "version": {
+      "default": "v0.0.1"
+    },
+    "owner": {
+      "default": "okular-d"
+    }
+  }
+}
